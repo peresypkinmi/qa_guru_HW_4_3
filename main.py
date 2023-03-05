@@ -1,5 +1,5 @@
 
 
 def test_checkBranch():
-    print("firstCommit_is_good")
+    print("firstCommit_resolveConflict")
 
