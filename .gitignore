@@ -6,29 +6,7 @@ Codespaces
 Marketplace
 Explore
  
-@peresypkinmi 
-RysevArtem
-/
-homework_4_3
-Public
-Fork your own copy of RysevArtem/homework_4_3
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-homework_4_3/.gitignore
-@Vincento1986
-Vincento1986 Изменения в тесте, 1==12
-Latest commit 9381c15 last week
- History
- 1 contributor
-132 lines (108 sloc)  1.78 KB
-
+@peresypkinmi
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -175,4 +153,3 @@ API
 Training
 Blog
 About
-homework_4_3/.gitignore at master · RysevArtem/homework_4_3
